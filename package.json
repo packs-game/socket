@@ -1,0 +1,16 @@
+{
+  "name": "packs-socket",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.13.4",
+    "packs-lib": "git+https://github.com/packs-game/packs-lib.git",
+    "socket.io": "^1.4.5"
+  }
+}
